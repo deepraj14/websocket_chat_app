@@ -1,0 +1,32 @@
+
+.boxer{
+    background-image: url("lv.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 600px;
+    margin: 60px;
+    margin-left: 240px;
+    width: 800px;
+    height: 500px;
+}
+#uname{
+    display: block;
+    margin: 10px;
+}
+#pass{
+    display: block;
+    margin: 10px;
+}
+#startbtn{
+    display: block;
+    margin: 10px
+}
+
+#list{
+    margin: 0px;
+}
+
+#txt{
+    font-family:Lobster;
+    font-size: 40pt;
+    color:black;
+}
